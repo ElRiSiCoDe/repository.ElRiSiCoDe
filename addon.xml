@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.ElRiSiCoDe" name="[COLOR FFFFD800]ElRiSiCoDe repository[/COLOR]" version="1.0.0" provider-name="ElRiSiCoDe">
+	<extension point="xbmc.addon.repository" name="ElRiSiCoDe">
+		<info compressed="false">https://raw.githubusercontent.com/ElRiSiCoDe/addon/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/ElRiSiCoDe/addon/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/ElRiSiCoDe/zips/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>depot d extension</summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
